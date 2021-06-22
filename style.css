@@ -1,0 +1,42 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.buttons {
+    margin: 20px 0 0 20px;
+}
+
+#search-bar {
+    color:darkcyan;
+    font-size: 1.1em;
+    font-style: bold;
+    border-radius: 20px;
+    border: 1px solid #00e6ac;
+    padding: 10px 20px;
+    width: 200px;
+}
+
+#plus-button {
+    border-radius: 50%;
+    border: none;
+    background-color: #00e6ac;
+    width: 50px;
+    height: 50px;
+    color: whitesmoke;
+    font-size: 2em;
+}
+
+#create-account {
+    background-color: dodgerblue;
+    color: whitesmoke;
+    font-size: 1.3em;
+    border: 2px solid #000033;
+    box-shadow: 5px 5px #000033;
+    padding: 5px 20px;
+    width: 250px;
+}
